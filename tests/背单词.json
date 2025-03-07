@@ -1,0 +1,68 @@
+[
+  {
+    "type": "choose",
+    "text": "conversely",
+    "choices": [
+      "adv. 交谈地；谈话地",
+      "adv. 相反地",
+      "v. 转换；转变",
+      "adj. 凸面的"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "alter",
+    "choices": [
+      "n. 祭坛",
+      "adj. 年长的",
+      "v. 改变；修改",
+      "prep. 在...之后"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "immerse",
+    "choices": [
+      "v. 出现",
+      "v. 合并",
+      "n. 图像",
+      "v. 浸入；沉浸"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "simulation",
+    "choices": [
+      "v. 刺激；激励",
+      "v. 模仿；假装",
+      "n. 模拟；仿真",
+      "adj. 同时发生的"
+    ],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "emerge",
+    "choices": [
+      "v. 合并",
+      "n. 紧急情况",
+      "n. 移民者",
+      "v. 出现；浮现"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "choose",
+    "text": "conversation",
+    "choices": [
+      "n. 转换",
+      "adv. 相反地",
+      "n. 对流",
+      "n. 对话；交谈"
+    ],
+    "answer": 3
+  }
+]

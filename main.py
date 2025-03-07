@@ -152,14 +152,15 @@ class Ui_MainWindow(object):
                 self.label.setText("正确！")
                 self.score += 1
             else:
-                self.label.setText("错误！")
+                correct_answer = question['choices'][question['answer']]
+                self.label.setText(f"错误！正确答案是：{correct_answer}")
         elif question['type'] == 'blank':
             user_answer = self.ans.text().strip()
             if user_answer == question['answer']:
                 self.label.setText("正确！")
                 self.score += 1
             else:
-                self.label.setText("错误！")
+                self.label.setText(f"错误！正确答案是：{question['answer']}")
 
         self.current_question_index += 1
 
