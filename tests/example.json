@@ -1,0 +1,279 @@
+[
+  {
+    "type": "choose",
+    "text": "The cat is _____ the mat.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 1
+  },
+  {
+    "type": "choose",
+    "text": "She lives _____ a big house.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "He plays football _____ the park.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "choose",
+    "text": "The book is _____ the table.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "The dog is _____ the tree.",
+    "answer": "under"
+  },
+  {
+    "type": "choose",
+    "text": "We eat breakfast _____ the morning.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "choose",
+    "text": "She works _____ the hospital.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The cat sleeps _____ the window.",
+    "answer": "by"
+  },
+  {
+    "type": "choose",
+    "text": "They go to school _____ bus.",
+    "choices": ["in", "on", "by", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The book is _____ the table.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "He reads a book _____ the library.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "She drinks coffee _____ breakfast.",
+    "answer": "with"
+  },
+  {
+    "type": "choose",
+    "text": "The meeting is _____ 3 o'clock.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The car is _____ the garage.",
+    "answer": "in"
+  },
+  {
+    "type": "choose",
+    "text": "He walks to the park _____ his friends.",
+    "choices": ["in", "on", "by", "with"],
+    "answer": 3
+  },
+  {
+    "type": "blank",
+    "text": "The bird flies _____ the sky.",
+    "answer": "in"
+  },
+  {
+    "type": "choose",
+    "text": "She sings a song _____ the concert.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The cat is _____ the table.",
+    "answer": "under"
+  },
+  {
+    "type": "choose",
+    "text": "He goes to the store _____ foot.",
+    "choices": ["in", "on", "by", "with"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The book is _____ the shelf.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "She puts the book _____ the table.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 1
+  },
+  {
+    "type": "blank",
+    "text": "The dog is _____ the bed.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "They play basketball _____ the playground.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The cat is _____ the chair.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "He sits _____ the window.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The bird is _____ the branch.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "She watches TV _____ the sofa.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The car is _____ the road.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "He runs _____ the park.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "The dog is _____ the couch.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "She reads _____ the bed.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The cat is _____ the floor.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "They eat _____ the table.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The bird is _____ the tree.",
+    "answer": "in"
+  },
+  {
+    "type": "choose",
+    "text": "He plays guitar _____ the balcony.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The car is _____ the driveway.",
+    "answer": "in"
+  },
+  {
+    "type": "choose",
+    "text": "She walks _____ the beach.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "The dog is _____ the porch.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "He sits _____ the desk.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The bird is _____ the window.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "She watches movie _____ the living room.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "The car is _____ the garage.",
+    "answer": "in"
+  },
+  {
+    "type": "choose",
+    "text": "He runs _____ the field.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "The dog is _____ the bed.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "They eat _____ the kitchen.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 0
+  },
+  {
+    "type": "blank",
+    "text": "The cat is _____ the chair.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "He sits _____ the window.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The bird is _____ the branch.",
+    "answer": "on"
+  },
+  {
+    "type": "choose",
+    "text": "She watches TV _____ the sofa.",
+    "choices": ["in", "on", "at", "under"],
+    "answer": 2
+  },
+  {
+    "type": "blank",
+    "text": "The car is _____ the road.",
+    "answer": "on"
+  }
+]
